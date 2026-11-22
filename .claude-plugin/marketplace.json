@@ -1,0 +1,14 @@
+{
+  "name": "protopanel-plugins",
+  "owner": {
+    "name": "ProtoPanel"
+  },
+  "plugins": [
+    {
+      "name": "protopanel",
+      "source": "./plugins/protopanel",
+      "description": "Build prototype drafts, review project maps, and trace study feedback through your ProtoPanel account."
+    }
+  ],
+  "description": "Install the ProtoPanel MCP connection for Claude Code."
+}

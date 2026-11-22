@@ -1,0 +1,18 @@
+{
+  "name": "protopanel",
+  "version": "1.0.0",
+  "description": "Build prototype drafts, review project maps, and trace study feedback through your ProtoPanel account.",
+  "author": {
+    "name": "ProtoPanel"
+  },
+  "homepage": "https://protopanel.vercel.app/plugins",
+  "mcpServers": "./codex-mcp.json",
+  "interface": {
+    "displayName": "ProtoPanel",
+    "shortDescription": "Build prototypes and review research",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "List my ProtoPanel projects."
+    ]
+  }
+}

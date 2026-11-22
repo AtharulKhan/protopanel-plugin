@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "protopanel": {
+      "type": "http",
+      "url": "https://protopanel.vercel.app/mcp"
+    }
+  }
+}
